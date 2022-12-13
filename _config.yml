@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaxing Qu"
-  avatar           : "profile.png"
+  avatar           : "profile_jqu.jpg"
   bio              : "Ph.D. candidate"
   location         : "Urbana, IL, USA"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
   linkedin         : "https://www.linkedin.com/in/jiaxing-qu-906179187/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
