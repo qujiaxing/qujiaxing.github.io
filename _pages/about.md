@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Bio"
+title: "Jiaxing Qu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+------
 I'm a Ph.D. candidate from Department of Mechanical Science and Engineering with concentration on computational science and engineering, University of Illinois, Urbana-Champaign, advised by Prof. Elif Ertekin. I obtained my Bachlor degree in Engineering Mechanics from Hohai University, China, followed by a Master degree in the same major from Shanghai Jiao Tong University (SJTU), China.
 
 A data-driven personal website
