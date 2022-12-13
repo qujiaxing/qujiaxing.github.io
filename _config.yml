@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaxing Qu's Personal website"
+title                    : "Jiaxing Qu (渠嘉星)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiaxing Qu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jiaxing Qu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. candidate"
+  location         : "Urbana, IL, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=xMNUjhsAAAAJ&hl=en"
+  email            : "jiaxing6@illinois.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Qu-Jiaxing?ev=hdr_xprf&_sg=hvNLEveUPbnBiPe6zrYv7vgN7DgSUXmeRrrLv1VWzi2fXF6ypH3p_zy1n3mqykfXJWZgYxEOjHVy8ATzYnsIf71o"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/jiaxing-qu-906179187/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
