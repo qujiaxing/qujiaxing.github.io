@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jiaxing Qu"
-  avatar           : "profile.png"
+  avatar           : "profile_jqu.jpg"
   bio              : "Ph.D. candidate"
   location         : "Urbana, IL, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xMNUjhsAAAAJ&hl=en"
   email            : "jiaxing6@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Qu-Jiaxing?ev=hdr_xprf&_sg=hvNLEveUPbnBiPe6zrYv7vgN7DgSUXmeRrrLv1VWzi2fXF6ypH3p_zy1n3mqykfXJWZgYxEOjHVy8ATzYnsIf71o"
